@@ -1,2 +1,0 @@
-# Online Examination System
-Notes
