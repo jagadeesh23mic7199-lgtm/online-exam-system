@@ -1,3 +1,3 @@
 public class Config {
-    public static final int PASS_MARK = 60;
+    public static final int PASS_MARK = 50;
 }
